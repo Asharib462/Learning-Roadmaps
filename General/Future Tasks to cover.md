@@ -7,7 +7,7 @@
 
 3. MCP: https://www.youtube.com/watch?v=vbqc7YddmBE&list=PLkz_y24mlSJYG_cg0oVYMRSEv2o-iGmhG&index=3
 - On third video of the series; done watch have to transcribe the video and practice
-
+ 
 4. Generative AI course: https://www.youtube.com/watch?v=IG-tM_4iKOg
 
 5. Problem solving: https://www.youtube.com/watch?v=lvO88XxNAzs (Done with watching, make notes)
